@@ -91,8 +91,6 @@ Remote is set to: `https://github.com/PragnyaKhandelwal/StockSense.git`
 - Packaging
 	- Create installer (NSIS/Inno Setup), signed binaries
 
-## License
-MIT (add a `LICENSE` file if you intend to open-source formally).
 
 ## Acknowledgements
 - Qt 6 Project
